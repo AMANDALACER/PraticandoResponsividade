@@ -1,0 +1,12 @@
+@import url(../style/header.css);
+
+:root {
+    --cor-de-funco: #EBECEE;
+    --branco: #FFFFFF;
+
+
+}
+
+body {
+    background-color: var(--cor-de-funco);
+}
